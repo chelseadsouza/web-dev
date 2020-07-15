@@ -7,4 +7,4 @@ Html and css https://chelseadsouza.github.io/web-dev/1.2%20HTML_CSS/htmlcss.html
 Bootstrap https://chelseadsouza.github.io/web-dev/2.Bootstrap/bootstrap.html
 
 ## Assignment 3
-Javascript https://chelseadsouza.github.io/web-dev/assignment%203_javascript/index.html
+Javascript https://chelseadsouza.github.io/web-dev/3_javascript/index.html
